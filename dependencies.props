@@ -1,0 +1,42 @@
+<Project>
+  <PropertyGroup Label="Package Versions">
+    <AutoMapperExtensionsPackageVersion>8.1.0</AutoMapperExtensionsPackageVersion>
+    <AutoMapperPackageVersion>10.1.1</AutoMapperPackageVersion>
+    <AzureStorageBlobs>12.6.0</AzureStorageBlobs>
+    <BenchmarkDotNetPackageVersion>0.10.14</BenchmarkDotNetPackageVersion>
+    <EFCoreBulkExtensions>3.1.6</EFCoreBulkExtensions>
+    <FluentAssertionsPackageVersion>5.3.2</FluentAssertionsPackageVersion>
+    <FluentValidationPackageVersion>9.5.0</FluentValidationPackageVersion>
+    <HellangMiddlewareProblemDetails>5.1.1</HellangMiddlewareProblemDetails>
+    <IdentityServer4AccessTokenValidation>3.0.1</IdentityServer4AccessTokenValidation>
+    <InnofactorEfCoreJsonValueConverter>2.0.2</InnofactorEfCoreJsonValueConverter>
+    <JaegerPackageVersion>0.4.1</JaegerPackageVersion>
+    <MailerPublishedLanguage>1.16.1</MailerPublishedLanguage>
+    <MediatRPackageVersion>9.0.0</MediatRPackageVersion>
+    <MicrosoftCSharpPackageVersion>4.5.0</MicrosoftCSharpPackageVersion>
+    <MicrosoftEntityFrameworkPackagesVersion>5.0.2</MicrosoftEntityFrameworkPackagesVersion>
+    <MicrosoftExtensionsPackagesVersion>5.0.0</MicrosoftExtensionsPackagesVersion>
+    <MicrosoftVisualStudioAzureContainersToolsTargets>1.10.8</MicrosoftVisualStudioAzureContainersToolsTargets>
+    <MoqPackageVersion>4.8.2</MoqPackageVersion>
+    <NBBExtrasPackagesVersion>5.0.0</NBBExtrasPackagesVersion>
+    <NBBPackagesVersion>5.0.12</NBBPackagesVersion>
+    <NewtonsoftJsonPackageVersion>12.0.3</NewtonsoftJsonPackageVersion>
+    <NpgsqlEntityFrameworkCorePostgreSQL>5.0.2</NpgsqlEntityFrameworkCorePostgreSQL>
+    <OpenTracingContribPackageVersion>0.6.2</OpenTracingContribPackageVersion>
+    <PomeloEntityFrameworkCoreMySql>3.2.0</PomeloEntityFrameworkCoreMySql>
+    <RazorEngineNetCore>3.1.0</RazorEngineNetCore>
+    <ScrutorPackageVersion>3.3.0</ScrutorPackageVersion>
+    <SerilogAspNetCorePackageVersion>3.4.0</SerilogAspNetCorePackageVersion>
+    <SerilogExtensionsLoggingPackageVersion>3.0.2-dev-10284</SerilogExtensionsLoggingPackageVersion>
+    <SerilogPackageVersion>2.10.0</SerilogPackageVersion>
+    <SerilogSinksConsolePackageVersion>4.0.0-dev-00839</SerilogSinksConsolePackageVersion>
+    <SerilogSinksMSSqlServerPackageVersion>5.6.0</SerilogSinksMSSqlServerPackageVersion>
+    <SwashbuckleAspNetCore>5.6.1</SwashbuckleAspNetCore>
+    <SystemComponentModelAnnotations>4.7.0</SystemComponentModelAnnotations>
+    <SystemDataSqlClientPackageVersion>4.8.2</SystemDataSqlClientPackageVersion>
+    <SystemNetHttp>4.3.4</SystemNetHttp>
+    <SystemSecurityCryptographyPkcs>5.0.1</SystemSecurityCryptographyPkcs>
+    <XunitPackageVersion>2.4.0</XunitPackageVersion>
+    <XunitRunnerVisualStudioPackageVersion>2.4.0</XunitRunnerVisualStudioPackageVersion>
+  </PropertyGroup>
+</Project>
